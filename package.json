@@ -1,0 +1,27 @@
+{
+  "name": "create-neon-electron-app",
+  "version": "0.1.0",
+  "description": "Create a Neon Electron app with a single command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-neon-electron-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neon-bindings/create-neon-electron-app.git"
+  },
+  "keywords": [
+    "Neon",
+    "Electron",
+    "Rust"
+  ],
+  "author": "David Herman <david.herman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neon-bindings/create-neon-electron-app/issues"
+  },
+  "homepage": "https://github.com/neon-bindings/create-neon-electron-app#readme"
+}
